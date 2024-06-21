@@ -11,3 +11,10 @@ To use this docker please clone this repo and run below comand:
 ```bash
 docker compose up -d
 ```
+
+Credentials for access  
+
+```python
+    username = mobsf
+    password = mobsf
+```
